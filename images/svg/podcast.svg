@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+aria-label="Podcast" role="img"
+viewBox="0 0 512 512"><rect
+width="512" height="512" rx="60" ry="60"
+fill="#ffffff"/>
+<path fill="#000" stroke="#000" d="M231 512 v-200 h50 v200 Z"/>
+<circle fill="none" stroke="#000" stroke-width="50" cx="256" cy="256" r="75"/>
+<path fill="none" stroke="#000" stroke-width="40" d="M206 395 A 150 150 0 1 1 306 395"/>
+<path fill="none" stroke="#000" stroke-width="40" d="M176 460 A 225 225 0 1 1 336 460"/>
+</svg>
